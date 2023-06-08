@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Example\проба\bin\Debug\проба.exe.config
+C:\Users\User\source\repos\Example\проба\bin\Debug\проба.exe
+C:\Users\User\source\repos\Example\проба\bin\Debug\проба.pdb
+C:\Users\User\source\repos\Example\проба\obj\Debug\проба.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Example\проба\obj\Debug\проба.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Example\проба\obj\Debug\проба.Properties.Resources.resources
+C:\Users\User\source\repos\Example\проба\obj\Debug\проба.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Example\проба\obj\Debug\проба.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Example\проба\obj\Debug\проба.exe
+C:\Users\User\source\repos\Example\проба\obj\Debug\проба.pdb
+C:\Users\User\source\repos\Example\проба\obj\Debug\проба.windows.Goods.resources
+C:\Users\User\source\repos\Example\проба\obj\Debug\проба.Login.resources
